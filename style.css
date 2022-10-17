@@ -1,0 +1,81 @@
+body {
+    background: url("mario.jpg");
+    background-size: cover;
+    font-family: 'Caveat Brush', cursive;
+    font-family: 'Neonderthaw', cursive;
+    font-family: 'Rock Salt', cursive;
+}
+
+#title {
+    font-size: 110px;
+    margin-top: 125px;
+    margin-left: 395px;
+    color: white;
+}
+
+#instructions {
+    margin-left: 490px;
+    font-size: 26px;
+    margin-top: 20px;
+}
+
+#credits {
+    background-color: white;
+    margin-top: 280px;
+    text-align: center;
+    bottom: 0;
+    text-align: center;
+}
+
+#button1 {
+    margin-left: 475px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#button2 {
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.modal-dialog {
+    width: 63%;
+    text-align: center;
+}
+
+.instImg {
+    width: 75%
+}
+
+
+/* This is the Ai Game HTML page css*/
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#body2 {
+    text-align: center;
+    background: url("background2.jpg");
+    background-size: cover;
+}
+
+#start {
+    margin-top: 20px;
+}
+
+#label {
+    margin-top: 20px;
+    color: white;
+}
+
+
+/* This is the game css*/
+
+#body3 {
+    text-align: center;
+    color: white;
+}
